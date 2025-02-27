@@ -1,4 +1,5 @@
-[![MasterHead](https://i.ibb.co/nbRt1X1/bannergithub.png)](https://#)
+![bannerLinkedIn](https://github.com/user-attachments/assets/c0d45522-e706-491c-ac31-8b879f0c924a)
+
 <br>
 <h1 align="center">Hello 👋, I'm Job Villagran</h1>
 <h3 align="center">A passionate Software Engineer from Guatemala City</h3>

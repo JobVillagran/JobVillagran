@@ -13,10 +13,10 @@ I am a self-taught developer with a strong eye for innovative design and a keen 
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=JobVillagran&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=JobVillagran&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=JobVillagran&theme=dark&hide_border=false" alt="GitHub Streak" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=JobVillagran&theme=dark&hide_border=false" />
       </td>
     </tr>
   </table>
@@ -31,7 +31,7 @@ I am a self-taught developer with a strong eye for innovative design and a keen 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JobVillagran&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JobVillagran&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

@@ -1,4 +1,4 @@
-![bannerLinkedIn]![4](https://github.com/user-attachments/assets/19165586-2866-486a-a8c5-5505fdc7b499)
+![4](https://github.com/user-attachments/assets/19165586-2866-486a-a8c5-5505fdc7b499)
 
 <br>
 <h1 align="center">Hello 👋, I'm Job Villagran</h1>

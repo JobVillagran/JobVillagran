@@ -2,8 +2,6 @@
 
 <br>
 
-![image](https://github.com/user-attachments/assets/3f70c753-6818-4148-beca-0fbe19b2b74b)
-
 <br>
 <h1 align="center">Hello 👋, I'm Job Villagran</h1>
 <h3 align="center">A passionate Software Engineer from Guatemala City</h3>
